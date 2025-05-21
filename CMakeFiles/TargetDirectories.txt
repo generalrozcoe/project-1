@@ -1,0 +1,3 @@
+/Users/lauraocampo/Projects-Rozcoe/project-1/CMakeFiles/main.dir
+/Users/lauraocampo/Projects-Rozcoe/project-1/CMakeFiles/edit_cache.dir
+/Users/lauraocampo/Projects-Rozcoe/project-1/CMakeFiles/rebuild_cache.dir
